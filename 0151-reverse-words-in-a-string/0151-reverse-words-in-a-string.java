@@ -11,3 +11,12 @@ class Solution {
     }
     
 }
+
+
+/*
+string is immutable (can not be updated but we can do this via copying this and making changes in this)
+
+string name = "ram";
+name = name.substring(0,1)+"b"+name.substring(2);
+
+*/
