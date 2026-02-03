@@ -27,7 +27,21 @@ class Solution{
         return palindrom(ns);
     }
     boolean palindrom(String s){
-        StringBuilder s2=new StringBuilder(s);
-        return s2.reverse().toString().equals(s);
+
+// normal
+
+        // StringBuilder s2=new StringBuilder(s);
+        // return s2.reverse().toString().equals(s);
+
+
+// 2 pointers
+    int l = 0, r = s.length() - 1;
+
+    while (l < r) {
+        if (s.charAt(l) != s.charAt(r)) return false;
+        l++;
+        r--;
+    }
+    return true;
     }
 }
