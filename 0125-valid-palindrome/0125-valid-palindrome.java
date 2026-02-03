@@ -1,15 +1,33 @@
-class Solution {
-    public boolean isPalindrome(String s) {
-        int left = 0, right = s.length() - 1;
-        while (left < right) {
-            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) left++;
-            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) right--;
-            if (Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))) {
-                return false;
+// class Solution {
+//     public boolean isPalindrome(String s) {
+//         int left = 0, right = s.length() - 1;
+//         while (left < right) {
+//             while (left < right && !Character.isLetterOrDigit(s.charAt(left))) left++;
+//             while (left < right && !Character.isLetterOrDigit(s.charAt(right))) right--;
+//             if (Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))) {
+//                 return false;
+//             }
+//             left++;
+//             right--;
+//         }
+//         return true;
+//     }
+// }
+
+class Solution{
+    public boolean isPalindrome(String s){
+        s=s.toLowerCase();
+        String ns="";
+        for(int i=0;i<s.length();i++){
+            char ch=s.charAt(i);
+            if(ch>='a' && ch<='z' || ch>='0' && ch<='9'){
+                ns+=ch;
             }
-            left++;
-            right--;
         }
-        return true;
+        return palindrom(ns);
+    }
+    boolean palindrom(String s){
+        StringBuilder s2=new StringBuilder(s);
+        return s2.reverse().toString().equals(s);
     }
 }
