@@ -14,6 +14,14 @@
 //     }
 // }
 
+
+
+
+
+
+
+
+
 class Solution{
     public boolean isPalindrome(String s){
         s=s.toLowerCase();
@@ -45,3 +53,4 @@ class Solution{
     return true;
     }
 }
+
