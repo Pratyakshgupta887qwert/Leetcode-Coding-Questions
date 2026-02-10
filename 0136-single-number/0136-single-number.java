@@ -7,3 +7,8 @@ class Solution {
         return ans;
     }
 }
+
+
+// other way of doing this question is : by using hashmap 
+// frequency = 1 will be return
+
