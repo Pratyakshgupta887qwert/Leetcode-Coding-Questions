@@ -1,23 +1,45 @@
-class Solution {
-    public int longestSubarray(int[] nums) {
+// class Solution {
+//     public int longestSubarray(int[] nums) {
+//         int max = 0;
+//         for (int i = 0; i < nums.length; i++) {
+//             int zero = 0;
+//             for (int j = i; j < nums.length; j++) {
+//                 if (nums[j] == 0) zero++;
+//                 if (zero > 1) break;
+//             
+//                 max = Math.max(max, j - i);
+//             }
+//         }
+//         return max;
+//     }
+// }
 
-        int max = 0;
 
-        for (int i = 0; i < nums.length; i++) {
+//variable size sliding window
 
-            int zero = 0;
+class Solution{
+    public int longestSubarray(int[] nums){
 
-            for (int j = i; j < nums.length; j++) {
+        /*
+[0,1,1,1,0,1,1,0,1]
+zero=1
+s=0 e=0
+max=1
 
-                if (nums[j] == 0) zero++;
-
-                if (zero > 1) break;
-
-                // update inside loop
-                max = Math.max(max, j - i);
+        */
+        int zero=0;
+        int s=0;
+        int max=0;
+        for(int e=0;e<nums.length;e++){
+            if(nums[e]==0) zero++;
+            while(zero>1){
+                if(nums[s]==0)zero--;
+                s++;
             }
+            int size=e-s+1;
+            max=Math.max(max,size);
         }
+        return max-1;
 
-        return max;
     }
 }
