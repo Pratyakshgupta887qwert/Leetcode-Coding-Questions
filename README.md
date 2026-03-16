@@ -26,16 +26,20 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
