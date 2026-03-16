@@ -20,17 +20,15 @@
 // sliding window
 class Solution {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
-        if (k <= 1) return 0;
-        int count = 0;
-        int product = 1;
-        int left = 0;
-        for (int right = 0; right < nums.length; right++) {
-            product *= nums[right];
-            while (product >= k && left <= right) {
-                product /= nums[left];
-                left++;
+        int count=0;
+        int p=1;
+        int s=0;
+        for(int e=0;e<nums.length;e++){
+            p*=nums[e];
+            while(s<=e && p>=k){
+                p/=nums[s++];
             }
-            count += (right - left + 1);
+            count+=e-s+1;
         }
         return count;
     }
