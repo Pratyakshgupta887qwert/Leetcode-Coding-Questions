@@ -69,6 +69,7 @@ Codeforces problems referenced in this repository:
 | [0020-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Codeforces problems referenced in this repository:
 | [0032-longest-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +86,8 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0496-next-greater-element-i/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 <!---LeetCode Topics End-->
