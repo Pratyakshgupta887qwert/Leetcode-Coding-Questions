@@ -53,7 +53,7 @@ class Solution {
         int ans[]=new int[temperatures.length];
         Stack<Integer> st= new Stack<>();
         for(int i=0;i<temperatures.length;i++){
-            while(!st.isEmpty()&&temperatures[st.peek()]<=temperatures[i]){
+            while(!st.isEmpty()&&temperatures[st.peek()]<temperatures[i]){
              
               int in=st.pop();
               ans[in]=i-in;  
