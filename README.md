@@ -29,6 +29,7 @@ Codeforces problems referenced in this repository:
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ Codeforces problems referenced in this repository:
 | [0020-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -88,6 +90,7 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0739-daily-temperatures/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
