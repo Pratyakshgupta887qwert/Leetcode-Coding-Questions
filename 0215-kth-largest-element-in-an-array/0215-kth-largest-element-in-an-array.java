@@ -22,7 +22,7 @@
 // }
 
 
-// this means l1,l2 = > l1-l2 means ascending order and if l2-l1 it means decending order.
+// this means i1,i2 = > i1-i2 means ascending order and if i2-i1 it means decending order.
 // this is more optimize.
 class Solution{
     public int findKthLargest(int[] nums,int k){
