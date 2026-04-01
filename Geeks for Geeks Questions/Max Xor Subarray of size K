@@ -1,0 +1,39 @@
+https://www.geeksforgeeks.org/problems/max-xor-subarray-of-size-k/0
+
+
+// //solution with sliding window
+
+class Solution {
+    public int maxSubarrayXOR(int[] arr, int k) {
+        // code here
+        int Xor = 0;
+        int max=0;
+        for(int i=0;i<arr.length;i++){
+            Xor^=arr[i];
+            if(i<k-1) continue;
+            max=Math.max(max,Xor);
+            Xor^=arr[i-k+1];
+        }
+        return max;
+    }
+}
+
+
+
+
+//bruteforce
+//solution with sliding window
+
+// class Solution {
+//     public int maxSubarrayXOR(int[] arr, int k) {
+//         // code here
+//         int max=0;
+//         for(int i=0;i<=arr.length-k;i++){
+//             int xor=0;
+//             for(int j=i;j<i+k;j++)xor^=arr[j];
+//             max=Math.max(max,xor);
+            
+//         }
+//         return max;
+//     }
+// }
