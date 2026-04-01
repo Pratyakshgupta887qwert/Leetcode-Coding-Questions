@@ -28,6 +28,7 @@ Codeforces problems referenced in this repository:
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -57,6 +58,7 @@ Codeforces problems referenced in this repository:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@ Codeforces problems referenced in this repository:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1537-get-the-maximum-score/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -109,6 +112,7 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0455-assign-cookies/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
