@@ -1,0 +1,58 @@
+https://www.geeksforgeeks.org/problems/aggressive-cows/0
+
+
+
+
+class Solution {
+    public int aggressiveCows(int[] stalls, int k) {
+        // code here
+        /*
+        stall[]=[1,2,4,8,9] ,k=3
+        [1,2,4] = 1,2,3 =>1 (minimum distance)
+        
+        [2,4,8]=2,4,6 =>2 (minimum distance)
+        
+        [4,8,9]=4,1,5 =>1 (minimum distance)
+        
+        [1,4,8]=1,4,7 =>3 (minimum distance)
+        
+        [1,4,9]= 3,5,8 =>3 (minimum distance)
+        */
+        
+        // stalls[] = [1, 2, 4, 8, 9];
+        Arrays.sort(stalls);
+        int n=stalls.length;
+        int max=stalls[n-1] -stalls[0];
+        int ans=-1;
+        for(int d=1;d<=max;d++){
+            int c=placeCows(stalls,d);
+            if(c>=k){
+                ans=d;
+            }
+            else break;
+        }
+        return ans;
+        /*
+        d=1 c=5
+        d=5 c=2
+        d=4 c=2
+        d=2 c=3
+        d=3 c=3
+        */
+        
+    }
+    
+    int placeCows(int stalls[], int d){
+        
+    
+        int c=1;
+        int p=stalls[0];
+        for(int i=1;i<stalls.length;i++){
+            if(stalls[i]-p>=d){
+                c++;
+                p=stalls[i];
+            }
+        }
+        return c;
+    }
+}
