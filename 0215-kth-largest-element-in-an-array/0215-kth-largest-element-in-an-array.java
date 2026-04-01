@@ -26,7 +26,7 @@
 // this is more optimize.
 class Solution{
     public int findKthLargest(int[] nums,int k){
-        PriorityQueue<Integer> pq= new PriorityQueue<>((11,12)->11-12);
+        PriorityQueue<Integer> pq= new PriorityQueue<>((i1,i2)->i1-i2);
         for(int i=0;i<nums.length;i++){
             pq.add(nums[i]);
             if(i>=k)pq.poll();
