@@ -1,0 +1,38 @@
+https://www.geeksforgeeks.org/problems/job-sequencing-problem--170647/1
+
+
+/*
+struct Job
+{
+   int id;	 // Job Id
+   int dead; // Deadline of job
+   int profit; // Profit if job is over before or on deadline
+};
+*/
+class Solution {
+    // Function to find the maximum profit and the number of jobs done.
+    int[] JobScheduling(Job arr[], int n) {
+        // Your code here
+        
+        Arrays.sort(arr,(i1,i2)->i1.deadline-i2.deadline);
+    
+        PriorityQueue<Integer> pq=new PriorityQueue<>();
+        for(Job j:arr){
+            if(pq.size()<j.deadline){
+                pq.add(j.profit);
+            }
+            else{
+                pq.add(j.profit);
+                pq.poll();
+            }
+        }
+        int ans[] = new int[2];
+        ans[0]=pq.size();
+        int total=0;
+        while(!pq.isEmpty()){
+            total+=pq.poll();
+        }
+        ans[1]=total;
+        return ans;
+    }
+}
