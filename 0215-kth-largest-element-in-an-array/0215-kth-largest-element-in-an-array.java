@@ -10,9 +10,23 @@
 
 //by priority queue.
 
+// class Solution{
+//     public int findKthLargest(int[] nums,int k){
+//         PriorityQueue<Integer> pq= new PriorityQueue<>();
+//         for(int i=0;i<nums.length;i++){
+//             pq.add(nums[i]);
+//             if(i>=k)pq.poll();
+//         }
+//         return pq.peek();
+//     }
+// }
+
+
+// this means l1,l2 = > l1-l2 means ascending order and if l2-l1 it means decending order.
+// this is more optimize.
 class Solution{
     public int findKthLargest(int[] nums,int k){
-        PriorityQueue<Integer> pq= new PriorityQueue<>();
+        PriorityQueue<Integer> pq= new PriorityQueue<>((11,12)->11-12);
         for(int i=0;i<nums.length;i++){
             pq.add(nums[i]);
             if(i>=k)pq.poll();
