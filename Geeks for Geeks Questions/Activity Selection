@@ -1,0 +1,29 @@
+https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1
+
+import java.util.*;
+
+class Solution {
+    public int activitySelection(int[] start, int[] finish) {
+        
+        int arr[][] = new int[start.length][2];
+
+        for (int i = 0; i < start.length; i++) {
+            arr[i][0] = start[i];
+            arr[i][1] = finish[i];
+        }
+
+        Arrays.sort(arr, (a, b) -> a[1] - b[1]);
+
+        int count = 1;
+        int f = arr[0][1];
+
+        for (int i = 1; i < start.length; i++) {
+            if (arr[i][0] > f) { 
+                count++;
+                f = arr[i][1];
+            }
+        }
+
+        return count;
+    }
+}
