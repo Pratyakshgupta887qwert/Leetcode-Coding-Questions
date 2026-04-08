@@ -29,6 +29,7 @@ Codeforces problems referenced in this repository:
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -70,6 +71,7 @@ Codeforces problems referenced in this repository:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1537-get-the-maximum-score/) | Hard |
 ## String
@@ -114,6 +116,7 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0455-assign-cookies/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
