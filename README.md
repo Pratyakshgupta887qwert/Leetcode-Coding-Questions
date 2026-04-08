@@ -26,6 +26,7 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0135-candy](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0135-candy/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -73,6 +74,7 @@ Codeforces problems referenced in this repository:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0455-assign-cookies/) | Easy |
