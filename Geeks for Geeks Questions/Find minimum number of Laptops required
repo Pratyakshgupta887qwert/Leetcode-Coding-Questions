@@ -1,0 +1,26 @@
+https://www.geeksforgeeks.org/problems/find-minimum-number-of-laptops-required--170645/1
+
+class Solution {
+    public int minLaptops(int N, int[] start, int[] end) {
+        Arrays.sort(start);
+        Arrays.sort(end);
+        
+        int fi = 0;
+        int lp = 0;
+        int maxLp = 0;
+        
+        for(int s : start){
+            int free = end[fi];
+            
+            if(s >= free){
+                fi++;
+                lp--;
+            }
+            
+            lp++;
+            maxLp = Math.max(maxLp, lp);
+        }
+        
+        return maxLp;
+    }
+}
