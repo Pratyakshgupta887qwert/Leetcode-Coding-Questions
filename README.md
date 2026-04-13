@@ -37,6 +37,7 @@ Codeforces problems referenced in this repository:
 | [0503-next-greater-element-ii](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0860-lemonade-change](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0860-lemonade-change/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ Codeforces problems referenced in this repository:
 | [0435-non-overlapping-intervals](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0860-lemonade-change/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1537-get-the-maximum-score/) | Hard |
 ## String
 | Problem Name | Difficulty |
