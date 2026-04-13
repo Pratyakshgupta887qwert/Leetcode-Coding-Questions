@@ -143,4 +143,16 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0365-water-and-jug-problem/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0365-water-and-jug-problem/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0365-water-and-jug-problem/) | Medium |
 <!---LeetCode Topics End-->
