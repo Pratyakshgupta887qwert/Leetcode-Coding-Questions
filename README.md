@@ -146,6 +146,7 @@ Codeforces problems referenced in this repository:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0319-bulb-switcher/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0365-water-and-jug-problem/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -155,4 +156,8 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0365-water-and-jug-problem/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
