@@ -146,6 +146,7 @@ Codeforces problems referenced in this repository:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0319-bulb-switcher](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0319-bulb-switcher/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0365-water-and-jug-problem/) | Medium |
 ## Depth-First Search
