@@ -23,10 +23,26 @@
 
 
 
+// class Solution {
+//     public int fib(int N) {
+//         if (N == 0) return 0;
+//         if (N == 1) return 1;
+//         return fib(N - 1) + fib(N - 2);
+//     }
+// }
+
+
+
+//by dp(top down dp)
 class Solution {
-    public int fib(int N) {
-        if (N == 0) return 0;
-        if (N == 1) return 1;
-        return fib(N - 1) + fib(N - 2);
+    public int fib(int n) {
+        int dp[]=new int[n+1];
+        return fibo(n,dp);
+    }
+    int fibo(int n,int dp[]){
+        if(n<=1) return n;
+        if(dp[n]!=0) return dp[n];
+        return dp[n]=fibo(n-1,dp)+fibo(n-2,dp);
     }
 }
+
