@@ -40,7 +40,7 @@ class Solution {
         return fibo(n,dp);
     }
     int fibo(int n,int dp[]){
-        // if(n<=1) return n;
+        // if(n<=1) return n;  or remove down 2 if and uncomment this
         if(n==0) return 0;
         if(n==1) return 1;
         if(dp[n]!=0) return dp[n];
