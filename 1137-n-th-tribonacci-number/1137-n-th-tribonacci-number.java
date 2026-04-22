@@ -8,7 +8,7 @@
 // }
 
 
-// by DP
+// by DP (globa v.)
 // class Solution {
 //     //global variable
 //     int dp[] = new int[38];
