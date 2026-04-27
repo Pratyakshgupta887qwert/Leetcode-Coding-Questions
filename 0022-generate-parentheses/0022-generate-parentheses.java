@@ -4,7 +4,7 @@ class Solution {
         List<String> l=new ArrayList<>();
 
         fun(n, 0, 0, "", l);
-        return l;
+        return l ;
     }
     void fun(int n, int o, int c, String s, List<String> l) {
         // base case
