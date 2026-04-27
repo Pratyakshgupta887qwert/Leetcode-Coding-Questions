@@ -1,0 +1,27 @@
+https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1&selectedLang=python3
+
+class Solution {
+    public ArrayList<String> ratInMaze(int[][] maze) {
+        ArrayList<String> list=new ArrayList<>();
+        backtrack(maze,0,0,"",list);
+        Collections.sort(list);
+        return list;
+    }
+    private void backtrack(int[][] maze,int row,int col,String str,ArrayList<String>list){
+        if(row<0 || row>=maze.length || col<0 || col>=maze[0].length)return;
+        if(maze[row][col]==0)return;
+        if(row==maze.length-1 && col==maze[0].length-1){
+            list.add(str);
+            return;
+        }
+        maze[row][col]=0;
+        backtrack(maze,row+1,col,str+"D",list);
+        backtrack(maze,row-1,col,str+"U",list);
+        backtrack(maze,row,col-1,str+"L",list);
+        backtrack(maze,row,col+1,str+"R",list);
+        maze[row][col]=1;
+    }
+}
+
+
+// we need to return it in lexicographically smallest order : means : in string sorted order.
