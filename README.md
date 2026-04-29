@@ -26,6 +26,7 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
 | [0135-candy](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0135-candy/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -91,6 +92,7 @@ Codeforces problems referenced in this repository:
 | [0020-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
 | [0796-rotate-string](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1544-make-the-string-great/) | Easy |
@@ -160,6 +162,7 @@ Codeforces problems referenced in this repository:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0365-water-and-jug-problem/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -183,4 +186,9 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
