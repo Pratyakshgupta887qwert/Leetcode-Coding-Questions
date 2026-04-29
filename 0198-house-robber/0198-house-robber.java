@@ -38,13 +38,13 @@
 class Solution {
     public int rob(int[] nums) {
         int dp[]=new int[nums.length];
-        Arrays.fill(dp,-1);
+        // Arrays.fill(dp,-1);
         return fun(nums, 0,dp);
     }
 
     int fun(int nums[], int i,int dp[]){
         if(i >= nums.length) return 0;
-        if(dp[i]!=-1) return dp[i];
+        if(dp[i]!=0) return dp[i];
 
         int a1 = nums[i] + fun(nums, i + 2,dp); 
         int a2 = fun(nums, i + 1,dp);           
