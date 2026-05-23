@@ -196,5 +196,6 @@ Codeforces problems referenced in this repository:
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0584-find-customer-referee](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
