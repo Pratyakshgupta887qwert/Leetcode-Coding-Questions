@@ -197,6 +197,7 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0197-rising-temperature/) | Easy |
 | [0584-find-customer-referee](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0595-big-countries/) | Easy |
