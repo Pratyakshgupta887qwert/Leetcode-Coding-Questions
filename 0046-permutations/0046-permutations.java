@@ -17,6 +17,7 @@ class Solution {
     }
     void fun(List<Integer> nums,List<List<Integer>> ans,List<Integer> p){
         if(nums.size()==0){
+            // if directly print p : then empty list will be returned. that is why we have created new list.
             ans.add(new ArrayList<>(p));
             return;
         }
