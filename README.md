@@ -190,6 +190,7 @@ Codeforces problems referenced in this repository:
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
