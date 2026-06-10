@@ -79,6 +79,7 @@ Codeforces problems referenced in this repository:
 | [0435-non-overlapping-intervals](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ Codeforces problems referenced in this repository:
 | [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
 | [0796-rotate-string](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1544-make-the-string-great](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Stack
