@@ -1,0 +1,25 @@
+class Solution {
+    public int knapsack(int W, int val[], int wt[]) {
+        // code here
+        int dp[][]=new int[val.length][W+1];
+        for(int r[]:dp) Arrays.fill(r,-1);
+        return fun(W,val,wt,0,dp);
+    }
+    int fun(int C,int val[],int wt[],int i,int dp[][]){
+        
+        if(C==0) return 0;
+        
+        if(i==val.length) return 0;
+        if(dp[i][C]!=-1)return dp[i][C];
+        
+        
+        int inc=0,exc=0;
+        if(wt[i]<=C){
+            inc=val[i]+fun(C-wt[i],val,wt,i+1,dp);
+        }
+        exc=fun(C,val,wt,i+1,dp);
+        
+        return dp[i][C]= Math.max(inc,exc);
+        
+    }
+}
