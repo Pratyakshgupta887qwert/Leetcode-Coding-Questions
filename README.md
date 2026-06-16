@@ -221,4 +221,12 @@ Codeforces problems referenced in this repository:
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0707-design-linked-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
