@@ -184,6 +184,7 @@ Codeforces problems referenced in this repository:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -224,6 +225,7 @@ Codeforces problems referenced in this repository:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
