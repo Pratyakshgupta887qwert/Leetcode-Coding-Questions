@@ -79,6 +79,7 @@ Codeforces problems referenced in this repository:
 | [0198-house-robber](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1537-get-the-maximum-score/) | Hard |
@@ -99,6 +100,7 @@ Codeforces problems referenced in this repository:
 | [0032-longest-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0072-edit-distance](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0796-rotate-string](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
