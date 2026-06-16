@@ -27,23 +27,37 @@
 // }
 
 
+// class Solution {
+//     public ListNode reverseList(ListNode head) {
+//         List<Integer> l = new ArrayList<>();
+//         ListNode tmp = head;
+//         while (tmp != null) {
+//             l.add(tmp.val);
+//             tmp = tmp.next;
+//         }
+
+//         int in = l.size() - 1;
+//         tmp = head;
+//         while (tmp != null) {
+//             tmp.val = l.get(in);
+//             tmp = tmp.next;
+//             in--;
+//         }
+
+//         return head; 
+//     }
+// }
+
+
 class Solution {
     public ListNode reverseList(ListNode head) {
-        List<Integer> l = new ArrayList<>();
-        ListNode tmp = head;
-        while (tmp != null) {
-            l.add(tmp.val);
-            tmp = tmp.next;
+        ListNode prev=null, curr=head;
+        while(curr!=null){
+            ListNode next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
         }
-
-        int in = l.size() - 1;
-        tmp = head;
-        while (tmp != null) {
-            tmp.val = l.get(in);
-            tmp = tmp.next;
-            in--;
-        }
-
-        return head; 
+        return prev;
     }
 }
