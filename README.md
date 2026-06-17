@@ -67,6 +67,7 @@ Codeforces problems referenced in this repository:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0455-assign-cookies/) | Easy |
@@ -230,6 +231,7 @@ Codeforces problems referenced in this repository:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0206-reverse-linked-list/) | Easy |
