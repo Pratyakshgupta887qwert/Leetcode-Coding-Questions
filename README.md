@@ -117,6 +117,7 @@ Codeforces problems referenced in this repository:
 | [0032-longest-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0739-daily-temperatures/) | Medium |
@@ -182,6 +183,7 @@ Codeforces problems referenced in this repository:
 | [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0365-water-and-jug-problem/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -250,9 +252,11 @@ Codeforces problems referenced in this repository:
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
