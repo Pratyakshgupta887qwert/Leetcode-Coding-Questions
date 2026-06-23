@@ -256,6 +256,7 @@ Codeforces problems referenced in this repository:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Tree
@@ -265,11 +266,13 @@ Codeforces problems referenced in this repository:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
