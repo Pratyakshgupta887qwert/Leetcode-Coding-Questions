@@ -25,6 +25,7 @@ Codeforces problems referenced in this repository:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0046-permutations](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0046-permutations/) | Medium |
 | [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
@@ -127,6 +128,7 @@ Codeforces problems referenced in this repository:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0496-next-greater-element-i/) | Easy |
