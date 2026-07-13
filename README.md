@@ -28,6 +28,7 @@ Codeforces problems referenced in this repository:
 | [0001-two-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0046-permutations](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0046-permutations/) | Medium |
+| [0066-plus-one](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
 | [0135-candy](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0135-candy/) | Hard |
 | [0198-house-robber](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0198-house-robber/) | Medium |
@@ -173,6 +174,7 @@ Codeforces problems referenced in this repository:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0319-bulb-switcher](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0319-bulb-switcher/) | Medium |
