@@ -27,6 +27,7 @@ Codeforces problems referenced in this repository:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0046-permutations](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
@@ -101,6 +102,7 @@ Codeforces problems referenced in this repository:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -296,4 +298,8 @@ Codeforces problems referenced in this repository:
 | [0450-delete-node-in-a-bst](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
