@@ -106,6 +106,7 @@ Codeforces problems referenced in this repository:
 | [0020-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0058-length-of-last-word](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
