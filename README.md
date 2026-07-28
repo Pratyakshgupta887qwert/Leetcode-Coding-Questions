@@ -102,6 +102,7 @@ Codeforces problems referenced in this repository:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0022-generate-parentheses/) | Medium |
@@ -133,6 +134,7 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -177,6 +179,7 @@ Codeforces problems referenced in this repository:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
