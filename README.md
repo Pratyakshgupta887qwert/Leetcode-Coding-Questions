@@ -80,6 +80,7 @@ Codeforces problems referenced in this repository:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0070-climbing-stairs/) | Easy |
@@ -104,6 +105,7 @@ Codeforces problems referenced in this repository:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0020-valid-parentheses/) | Easy |
@@ -218,6 +220,7 @@ Codeforces problems referenced in this repository:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
