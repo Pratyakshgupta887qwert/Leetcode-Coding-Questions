@@ -28,6 +28,7 @@ Codeforces problems referenced in this repository:
 | [0001-two-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0041-first-missing-positive](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0079-word-search/) | Medium |
@@ -140,6 +141,7 @@ Codeforces problems referenced in this repository:
 | [0001-two-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0496-next-greater-element-i/) | Easy |
