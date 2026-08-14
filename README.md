@@ -28,6 +28,7 @@ Codeforces problems referenced in this repository:
 | [0001-two-sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0066-plus-one/) | Easy |
@@ -72,6 +73,7 @@ Codeforces problems referenced in this repository:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -162,6 +164,7 @@ Codeforces problems referenced in this repository:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0015-3sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
