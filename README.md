@@ -45,6 +45,7 @@ Codeforces problems referenced in this repository:
 | [0503-next-greater-element-ii](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0860-lemonade-change/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Binary Search
@@ -92,6 +93,7 @@ Codeforces problems referenced in this repository:
 | [0435-non-overlapping-intervals](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1537-get-the-maximum-score/) | Hard |
