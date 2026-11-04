@@ -264,6 +264,7 @@ Codeforces problems referenced in this repository:
 | [1251-average-selling-price](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pratyakshgupta887qwert/Leetcode-Coding-Questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Linked List
